@@ -302,7 +302,7 @@
     border-radius: 5px;
   }
 
-  .btn3 z{
+  .btn3 button{
     color: white;
     font-weight: 700;
     font-size: 1.6rem;
@@ -324,6 +324,6 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
 
-  .btn3 z:hover {
+  .btn3 button:hover {
    transform: translate(10px, 5px);
   }
